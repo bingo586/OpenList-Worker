@@ -48,6 +48,12 @@
   // ===========================================================================
   "vars": {
     "ENVIRONMENT": "production",
+  "kv_namespaces": [
+    {
+      "binding": "OPENLIST_WORKER_KV",
+      "id": "8039c072b175421fd99b0cbae57fde0f"
+    }
+  ],
 
     // 数据存储格式：
     //   map（默认）- 整对象序列化为单个 JSON 键值，适合 KV/Blob
