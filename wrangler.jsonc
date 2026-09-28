@@ -13,7 +13,8 @@
     "ENVIRONMENT": "production",
     "DB_FORMAT": "map",
     "DB_DRIVER": "kv",
-    "DB_CIPHER": "none"
+    "DB_CIPHER": "none",
+    "JWT_SECRET": "suiyu586-openlist-secret-key-987654321"
   },
   "kv_namespaces": [
     {
