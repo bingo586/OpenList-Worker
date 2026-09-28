@@ -18,7 +18,7 @@
   },
   "kv_namespaces": [
     {
-      "binding": "OPENLIST_WORKER_KV",
+      "binding": "KV",
       "id": "80390c72b17542fd99b9cbaae57fde0f"
     }
   ],
