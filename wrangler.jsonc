@@ -179,3 +179,9 @@
   //   Blob 由 EdgeOne / ESA 自动注入，无需配置；
   //   MySQL 通过 Secret 配置 MYSQL_URLS（或 MYSQL_HOST 等分项）。
 }
+"kv_namespaces": [
+  {
+    "binding": "OPENLIST_WORKER_KV",
+    "id": "8039c072b175421fd99b0cbae57fde0f"
+  }
+]
